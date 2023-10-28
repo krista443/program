@@ -1,6 +1,6 @@
 // Файл: SystemA.java
 // Файл: SystemA.java
-package com.example.zxcvb;
+package com.example.4;
 
 public class SystemA {
     private int temperature; // поле для хранения температуры
