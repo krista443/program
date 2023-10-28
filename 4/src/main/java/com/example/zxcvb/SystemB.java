@@ -1,5 +1,5 @@
 // Файл: SystemB.java
-package com.example.zxcvb;
+package com.example.4;
 
 public class SystemB {
     private int temperature; // поле для хранения температуры
