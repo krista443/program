@@ -1,4 +1,4 @@
-package com.example.zxcvb;
+package com.example.4;
 import java.util.Scanner;
 
 public class SmartHomeController {
