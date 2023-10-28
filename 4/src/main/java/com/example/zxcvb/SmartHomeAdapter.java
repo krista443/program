@@ -1,5 +1,5 @@
 // Файл: SmartHomeAdapter.java
-package com.example.4;
+package com.example.zxcvb;
 
 public interface SmartHomeAdapter {
     void performAction(String action);
