@@ -1,5 +1,5 @@
 // Файл: SystemAAdapter.java
-package com.example.zxcvb;
+package com.example.4;
 
 public class SystemAAdapter implements SmartHomeAdapter {
     private SystemA systemA;
